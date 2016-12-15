@@ -3,7 +3,7 @@
 ## getip
 Gets your current WLAN IP address and outputs it.
 ```
-$ getip
+$ sh ./getip
 192.168.1.154
 ```
 
